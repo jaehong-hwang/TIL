@@ -6,10 +6,12 @@
 ## 디렉토리
 1. 언어 혹은 대분야
 2. 분야
-3. 도메인
+3. 도메인 (optional)
 
 위 순서에 맞게끔 디렉토리를 생성하며, [Docker 로 Node.js 배포하기](https://seokjun.kim/docker-nginx-node/)를 예시로 들면 다음과 같다  
 `/Docker/Compose/seokjun.kim/Docker로_Node.js_배포하기.md`  
+
+이는 기본적인 예시이며, 디렉토리는 유동적이고 가시성이 좋도록 정리한다.
 
 ## 내용
 필수로 들어가는 내용은 다음과 같다.
